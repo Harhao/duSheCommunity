@@ -7,7 +7,7 @@
   pip install scrapy
   ```
   - 如果遇到scrapy无法加载，可以直接下载Anaconda，避免下载过多的依赖包文件，造成无法搭建运行环境
-  - dushe与dusheSingle是两个不同的版本。dushe是基于scrapy-redis的分布式版本，dusheSingle是单机版本
+  - dushe与dusheSingle是两个不同的版本
   - git clone下来，随便一个项目，然后运行一下命令
   ```
   scrapy crawl duzheMovie
