@@ -4,7 +4,7 @@ import json
 from scrapy import Spider,Request
 from time import sleep
 import logging
-import random
+#import random
 class DuzhemovieSpider(Spider):
     name = "duzhemovie"
     allowed_domains = ["dushemovie.com"]
